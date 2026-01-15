@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Shubham Mehrotra, a college student with a strong interest in technology, problem-solving, and real-world innovation 🚀. I enjoy working on projects related to software development, cybersecurity, and emerging technologies, where I can turn ideas into practical solutions.<br><br>I like learning by building things—whether it’s coding, experimenting with new tools, or understanding how systems work behind the scenes 💻. I believe in continuous improvement, teamwork, and taking responsibility for my work.<br><br>My goal is to keep growing my technical skills while creating meaningful impact through projects and collaborations.
+# 💫  I’m Shubham Mehrotra
+A college student with a strong interest in technology, problem-solving, and real-world innovation 🚀. I enjoy working on projects related to software development, cybersecurity, and emerging technologies, where I can turn ideas into practical solutions.<br><br>I like learning by building things—whether it’s coding, experimenting with new tools, or understanding how systems work behind the scenes 💻. I believe in continuous improvement, teamwork, and taking responsibility for my work.<br><br>My goal is to keep growing my technical skills while creating meaningful impact through projects and collaborations.
 
 
 ## 🌐 Socials:
